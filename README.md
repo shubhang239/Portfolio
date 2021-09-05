@@ -5,7 +5,13 @@
 - 👀 I’m interested in Data Analytics and Data Science
 - 🌱 I’m currently pursuing mechanical engineering from DTU
 - 💞️ I’m am open to collaboration on projects related to Data Analysis, Machine Learning etc
-- 📫 -You can conect with me at Gmail: <a href="mailto:fighterengineer31@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="30px" height="30px"/> </a>
+
+ ### Connect with me:
+
+
+[<img align="left" alt="mohammadelghrably | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/shubhangshukla/)
+[<img align="left" alt="salahbeeh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/_shubhangshukla/)
+<a href="mailto:fighterengineer31@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="30px" height="30px"/> </a>
  
 <!---
 shubhang239/shubhang239 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
