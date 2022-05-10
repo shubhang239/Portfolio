@@ -12,6 +12,9 @@ I am pursuing my Bachelors in Technology from Delhi Technological University (fo
 [<img align="left" alt="mohammadelghrably | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/shubhangshukla/)
 <a href="mailto:fighterengineer31@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="30px" height="30px"/> </a>
 
+- Tableau profile: https://public.tableau.com/app/profile/shubhang.shukla
+
+
  
 <!---
 shubhang239/shubhang239 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
