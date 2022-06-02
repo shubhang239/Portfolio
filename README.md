@@ -7,7 +7,7 @@ I am pursuing my Bachelors in Technology from Delhi Technological University (fo
 
 - 🤝 I am looking to collaborate on **Industry Oriented Projects**
 
-- :telescope: My current interest pursuits **Research, Machine Learning and Operations Management**
+- :telescope: My current interest pursuits **Data Science, Machine Learning and Management Consulting**
 
 - ⚡ Fun fact: I am a Taekwondo Black Belt
 <h3 align="left">Connect with me:</h3>
