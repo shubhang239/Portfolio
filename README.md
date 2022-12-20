@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Shubhang !!!
+<!-- ## 👋 Hey, I'm Shubhang !!!
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Well_Well_!!_we_meet_again-brightgreen.svg?style=flat&logo=github)](https://github.com/shubhang239) [![Years Badge](https://badges.pufler.dev/years/shubhang239)](https://badges.pufler.dev/years/shubhang239)[![Repos Badge](https://badges.pufler.dev/repos/shubhang239)](https://badges.pufler.dev/repos/shubhang239)[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/shubhangshukla/) 
 <img height="20" src="https://img.shields.io/badge/Language_Used-Python_SQL_HTML_CSS-red.svg?&style=flat&logo=KushalDas&logoColor=blue" />
 
@@ -9,7 +9,7 @@ I am pursuing my Bachelors in Technology from Delhi Technological University (fo
 
 - :telescope: My current interest pursuits **Data Science, Machine Learning and Management Consulting**
 
-- ⚡ Fun fact: I am a Taekwondo Black Belt
+- ⚡ Fun fact: I am a Taekwondo Black Belt -->
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shubhangshukla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubhangshukla/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/shubhangnshukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/shubhangnshukla" height="30" width="40" /></a>
